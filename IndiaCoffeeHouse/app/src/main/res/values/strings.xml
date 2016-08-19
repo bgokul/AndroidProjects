@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">India Coffee House</string>
+    <string name="title_name">India Coffee House</string>
+    <string name="shop_description">Easy going coffee shop featuring Indian Filter Coffee, Samosa and free WiFi </string>
+    <string name="phone_title">Phone:</string>
+    <string name="phone_number">425&#8211;228&#8211;0816</string>
+    <string name="address_title">Address:</string>
+    <string name="address_line_one">762 Shadow Avenue NE</string>
+    <string name="address_line_two">Renton WA 98059</string>
+    <string name="hours_title">Hours:</string>
+    <string name="hours_line_one">Mon-Fri 5:00 AM-8:00 PM</string>
+    <string name="hours_line_two">Sat-Sun 7:00 AM-7:00 PM</string>
+</resources>
